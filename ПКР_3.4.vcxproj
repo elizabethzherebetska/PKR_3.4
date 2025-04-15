@@ -129,7 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="List.cpp" />
-    <ClCompile Include="ПКР_3.4.cpp" />
+    <ClCompile Include="ПКР_3.5.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="List.h" />
