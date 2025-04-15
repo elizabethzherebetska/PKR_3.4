@@ -1,4 +1,5 @@
-﻿  List.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ПКР_3.4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  List.cpp
   ПКР_3.4.cpp
   Generating Code...
-  ПКР_3.4.vcxproj -> C:\Users\User\Desktop\ООП\ПКР_3.4\x64\Debug\ПКР_3.4.exe
+  ПКР_3.4.vcxproj -> C:\Users\User\Desktop\ООП\ПКР_3.4\x64\Debug\ПКР_3.5.exe
